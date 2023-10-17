@@ -5,6 +5,5 @@ public class App {
         
         String outcome= (num1>num2)? "Num1 is greater" : "Num2 is greater";
         System.out.println(outcome);
-        //testing git
     }
 }
